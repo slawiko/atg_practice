@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+ATG-Product: Forte.Utils
+ATG-Version: 11.1
+ATG-Config-Path: config/
+ATG-Version-Full: 11.1
+ATG-Class-Path: bin/ resources/
+ATG-Required: DAS DPS DSS DCS DCS-UI 
+ATG-Product-Full: forte utils
